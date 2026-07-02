@@ -1,0 +1,13 @@
+# Ignore virtual environments
+.venv/
+venv/
+env/
+
+# Ignore data and models (unless you specifically want to track small model weights)
+data/
+models/
+
+# Ignore Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Ignore OS files
